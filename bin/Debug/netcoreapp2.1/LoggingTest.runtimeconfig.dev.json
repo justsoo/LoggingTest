@@ -1,0 +1,9 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\soohee.SMILEGATE\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\soohee.SMILEGATE\\.nuget\\packages",
+      "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+    ]
+  }
+}

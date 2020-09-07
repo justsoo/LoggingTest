@@ -1,0 +1,14 @@
+{
+  "runtimeOptions": {
+    "tfm": "netcoreapp2.1",
+    "framework": {
+      "name": "Microsoft.NETCore.App",
+      "version": "2.1.15"
+    },
+    "additionalProbingPaths": [
+      "C:\\Users\\soohee.SMILEGATE\\.nuget\\packages\\",
+      "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder",
+      "C:\\ProgramData\\PostSharp\\NuGetFallback"
+    ]
+  }
+}
